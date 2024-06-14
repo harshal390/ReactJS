@@ -5,7 +5,7 @@ const React = () => {
   return (
     <div className="reactLogo">
       <a href="https://react.dev" target="_blank">
-        <img src={reactLogo} className="logo react" alt="React logo" />
+        <img src={reactLogo} className="animate-spin logo react" alt="React logo" />
       </a>
     </div>
   )
